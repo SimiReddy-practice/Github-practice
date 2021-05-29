@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React by Simi 
+          Learn React By Simi
         </a>
         <h1>People change memories don't</h1>
       </header>
