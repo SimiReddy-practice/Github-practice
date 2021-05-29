@@ -17,6 +17,7 @@ function App() {
         >
           Learn React fast Simi
         </a>
+        <h1>People change memories don't</h1>
       </header>
     </div>
   );
