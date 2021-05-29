@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fast Simi
+          Learn React By Simi
         </a>
       </header>
     </div>
