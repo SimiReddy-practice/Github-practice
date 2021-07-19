@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fast Simi - fast
+          Learn React fast Simi - fast fork 1 -push origin
         </a>
       </header>
     </div>
