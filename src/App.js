@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fast Simi!! + 1
+          Learn React fast Simi!! + 23
         </a>
       </header>
     </div>
