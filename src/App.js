@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fast Simi!! + Revert Test
+          Learn React fast Simi!! + master branch
         </a>
       </header>
     </div>
