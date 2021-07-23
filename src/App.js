@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fast Simi!! + master branch + 2
+          Learn React fast Simi!! + tets + branch 2
+          Line 1
+          Line 2 and 3 
         </a>
       </header>
     </div>
