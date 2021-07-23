@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React fast Simi!! + master branch + 2
+          Line 1
+          Line 5
         </a>
       </header>
     </div>
